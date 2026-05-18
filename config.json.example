@@ -1,0 +1,12 @@
+{
+  "dashscope_api_key": "",
+  "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "model_name": "qwen-plus",
+  "asr_model_name": "qwen3-asr-flash",
+  "temperature": 0.3,
+  "max_context_items": 10,
+  "answer_cooldown_seconds": 15,
+  "mock_mode": true,
+  "ui_opacity": 0.92,
+  "always_on_top": true
+}
